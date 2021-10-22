@@ -1,6 +1,6 @@
 const linksSocialMedia = {
   github: "AurelioMesquita",
-  youtube: "UCiRn4Wiso0ymbYo_veEbtFA",
+  youtube: "channel/UCiRn4Wiso0ymbYo_veEbtFA",
   instagram: "aurelio_mesquita",
   facebook: "aurelio.nogueira.35",
 };
